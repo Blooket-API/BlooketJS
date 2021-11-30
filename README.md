@@ -2,7 +2,6 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 
 # BlooketJS 💻
 BlooketJS is the first API Wrapper for Blooket — Built by Developers for Developers.
@@ -43,4 +42,3 @@ client.on("end", () => {
 [issues-shield]: https://img.shields.io/github/issues/Blooket-API/BlooketJS.svg?style=for-the-badge
 [issues-url]: https://github.com/Blooket-API/BlooketJS/issues
 [license-shield]: https://img.shields.io/github/license/Blooket-API/BlooketJS.svg?style=for-the-badge
-[license-url]: https://github.com/Blooket-API/BlooketJS/blob/main/LICENSE.md
