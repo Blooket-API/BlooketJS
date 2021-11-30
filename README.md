@@ -14,9 +14,6 @@ BlooketJS is the first API Wrapper for Blooket — Built by Developers for Devel
 [stars-shield]: https://img.shields.io/github/stars/Blooket-API/BlooketJS.svg?style=for-the-badge
 [stars-url]: https://github.com/Blooket-API/BlooketJS/stargazers
 [issues-shield]: https://img.shields.io/github/issues/Blooket-API/BlooketJS.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: images/screenshot.png
+[issues-url]: https://github.com/Blooket-API/BlooketJS/issues
+[license-shield]: https://img.shields.io/github/license/Blooket-API/BlooketJS.svg?style=for-the-badge
+[license-url]: https://github.com/Blooket-API/BlooketJS/blob/master/LICENSE.txt
