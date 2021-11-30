@@ -43,4 +43,4 @@ client.on("end", () => {
 [issues-shield]: https://img.shields.io/github/issues/Blooket-API/BlooketJS.svg?style=for-the-badge
 [issues-url]: https://github.com/Blooket-API/BlooketJS/issues
 [license-shield]: https://img.shields.io/github/license/Blooket-API/BlooketJS.svg?style=for-the-badge
-[license-url]: https://github.com/Blooket-API/BlooketJS/blob/master/LICENSE.txt
+[license-url]: https://github.com/Blooket-API/BlooketJS/blob/main/LICENSE.md
