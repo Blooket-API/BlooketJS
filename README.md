@@ -53,7 +53,7 @@ Basic Syntax: ``[client].join(gameid, username, bot=True)``
 |**``bot``**|<ins>boolean</ins> (True/False)
 
 **Flood Game Example:** <sup style="color:red">Dangerous</sup>
-Basic Syntax: ``[client].flood(gameid, username, amount)``
+\nBasic Syntax: ``[client].flood(gameid, username, amount)``
 | Name | Description |
 |-|-|
 |**``gameid``**|The GameID of the game you want to connect to|
