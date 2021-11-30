@@ -5,7 +5,8 @@
 
 # BlooketJS 💻
 BlooketJS is the first API Wrapper for Blooket — Built by Developers for Developers. 
-Create Blooket Bots to automatically get every single answer correct & more.
+Create Blooket Bots to automatically control your blooket games and possibly win them for you.
+- Focused on Cache 
 
 # Basic Example
 ```js
