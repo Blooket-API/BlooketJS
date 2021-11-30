@@ -4,8 +4,29 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
-# BlooketJS
+# BlooketJS 💻
 BlooketJS is the first API Wrapper for Blooket — Built by Developers for Developers.
+
+# Basic Example
+```js
+const Kahoot = require("kahoot.js-updated");
+const client = new Kahoot();
+console.log("Joining kahoot...");
+client.join(9802345 /* Or any other kahoot game pin */, "kahoot.js");
+client.on("Joined", () => {
+  console.log("I joined the Kahoot!");
+});
+client.on("QuizStart", () => {
+  console.log("The quiz has started!");
+});
+client.on("QuestionStart", question => {
+  console.log("A new question has started, answering the first answer.");
+  question.answer(0);
+});
+client.on("QuizEnd", () => {
+  console.log("The quiz has ended.");
+});
+```
 
 [contributors-shield]: https://img.shields.io/github/contributors/Blooket-API/BlooketJS.svg?style=for-the-badge
 [contributors-url]: https://github.com/Blooket-API/BlooketJS/graphs/contributors
