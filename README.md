@@ -4,7 +4,8 @@
 [![Issues][issues-shield]][issues-url]
 
 # BlooketJS 💻
-BlooketJS is the first API Wrapper for Blooket — Built by Developers for Developers.
+BlooketJS is the first API Wrapper for Blooket — Built by Developers for Developers. 
+Create Blooket Bots to automatically get every single answer correct & more.
 
 # Basic Example
 ```js
@@ -21,13 +22,12 @@ cliebt.on("Ready", () => {
 client.on("join", () => {
   console.log("I joined the Kahoot!");
 });
-client.on("start", () => {
-  console.log("The quiz has started!");
-});
+
 client.on("question", question => {
   console.log("A new question has started, answering the first answer.");
-  question.answer(0);
+  question.submit(question.answer[0])
 });
+
 client.on("end", () => {
   console.log("The quiz has ended.");
 });
