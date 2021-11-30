@@ -12,7 +12,7 @@ BlooketJS is the first API Wrapper for Blooket — Built by Developers for Devel
 const { Client } = require("blooketjs");
 const client = new Client({ token: process.env.token })
 
-console.log("Joining kahoot...");
+console.log("Joining blooket...");
 client.join(000000, "example");
 
 cliebt.on("Ready", () => {
