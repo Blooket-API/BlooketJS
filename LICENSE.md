@@ -2,7 +2,7 @@
 
 MIT License
 
-Copyright (c) 2021 <span class="badge badge-secondary">@shadyfeelings</span>
+Copyright (c) 2021 <span class="badge badge-secondary">Blooket API</span>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
