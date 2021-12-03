@@ -3,6 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
+### In Developement
 # BlooketJS 💻
 BlooketJS is the first API Wrapper for Blooket — Built by Developers for Developers. 
 Create Blooket Bots to automatically control your blooket games and possibly win them for you.
